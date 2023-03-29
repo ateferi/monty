@@ -1,7 +1,6 @@
 # 0x19 C - Stacks, Queues - LIFO, FIFO :pencil2:
 
-> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers concepts of Stacks, Queues, LIFO, FIFO implementation.
-This was a duo project with the awesome partner [Karen Herrera](https://github.com/karenaHV/)
+> C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers concepts of Stacks, Queues, LIFO, FIFO implementation for designing an interpreter for bytecodes.
 
 At the end of this project, We were able to solve these questions:
   
